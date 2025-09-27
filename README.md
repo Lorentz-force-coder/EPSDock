@@ -12,11 +12,11 @@ Compare Tools: AutoDOck4; Vina; rDock; GlideSP; FIPSDock;
 
 Docking poses and Docking RMSD:
 
-for 1EHT--
+For 1EHT RNA site--
 
 <img width="1690" height="957" alt="docking-1" src="https://github.com/user-attachments/assets/0f228de5-7efc-43c4-8d6a-1059fcdc34b1" />
 
-for 2F4T--
+For 2F4T RNA site--
 
 <img width="1682" height="957" alt="docking-2" src="https://github.com/user-attachments/assets/7abbf532-1a0b-48c5-8608-ca827e2a545d" />
 
