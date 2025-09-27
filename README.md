@@ -24,6 +24,9 @@ RNA natural binding conformation:
 
 <img width="1317" height="545" alt="docking-3" src="https://github.com/user-attachments/assets/cf46b02a-56d5-407d-95ee-085ab5941af0" />
 
+Parameter settings for EPSDock as:
+
+
 For any questions, contact me via: stone dot dlut at foxmail dot com.
 
 
