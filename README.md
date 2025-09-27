@@ -10,7 +10,7 @@ PDB Code: 1EHT and 2F4T
 
 Compare Tools: AutoDOck4; Vina; rDock; GlideSP; FIPSDock;
 
-Docking poses and Docking RMSD:
+Docking poses and Docking RMSD as follows:
 
 For 1EHT RNA site--
 
