@@ -1,2 +1,22 @@
-# EPSDock
+# EPSDock:
+
+The code for paper "The development of EPSDock, a new docking suite based on enhanced particle swarm optimization algorithm and its assessment on RNA-ligand benchmark sets".
 EPSDock is a novel docking tools for RNA and Small molecules interaction evaluation. The resource code shown as EPSDock-code.rar files. You can download and compile it by gcc,g++ on Ubuntu LST 18.04 OS. ​​Furthermore, a compiled version of the EPSDock is available. e.g. epsdock. ​​If you encounter problems during compilation, you can use the compiled program directly.​
+
+# Case Study:
+Here, we describle two RNA situation docking result :
+
+PDB Code: 1EHT and 2F4T
+Compare Tools: AutoDOck4; Vina; rDock; GlideSP; FIPSDock;
+
+Docking poses and Docking RMSD:
+
+<img width="1690" height="957" alt="docking-1" src="https://github.com/user-attachments/assets/0f228de5-7efc-43c4-8d6a-1059fcdc34b1" />
+<img width="1682" height="957" alt="docking-2" src="https://github.com/user-attachments/assets/7abbf532-1a0b-48c5-8608-ca827e2a545d" />
+
+
+For any questions, contact me via: stone dot dlut at foxmail dot com.
+
+
+
+
