@@ -32,11 +32,17 @@ RNA natural binding conformation:
 # Parameter settings for EPSDock as below:
 
 pso_c1 2.05                  	 # the First Confidence Coefficient 
+
 pso_c2 2.05		                 # the Second Confidence Coefficient 
+
 pso_k 50                 	     # Max number of particles informed by a given one
+
 pso_swarm_moves 2500000        # total swarm Moves 
+
 pso_size 50     	             # swarm size 
+
 pso_n_exec 50             	   # Number of requested PSO runs or the total running times 
+
 
 For any questions, contact me via: stone dot dlut at foxmail dot com.
 
