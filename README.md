@@ -14,7 +14,7 @@ Here, we describle two RNA situation docking results :
 PDB Code: 1EHT and 2F4T
 
 
-Compare Tools: AutoDOck4; Vina; rDock; GlideSP; FIPSDock;
+Compared Tools: AutoDOck4; Vina; rDock; GlideSP; FIPSDock;
 
 Docking poses and Docking RMSD as follows:
 
