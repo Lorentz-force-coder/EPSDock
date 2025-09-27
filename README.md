@@ -5,6 +5,7 @@ EPSDock is a novel docking tools for RNA and Small molecules interaction evaluat
 
 # Enhanced Particle Swarm Optimization (EPSO)​:
 
+<img width="1554" height="972" alt="epso" src="https://github.com/user-attachments/assets/1fe95611-27a5-47bd-8eb5-999daa653e3c" />
 
 
 # Case Study:
