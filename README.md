@@ -1,7 +1,7 @@
 # EPSDock:
 
 The code for paper "The development of EPSDock, a new docking suite based on enhanced particle swarm optimization algorithm and its assessment on RNA-ligand benchmark sets".
-EPSDock is a novel docking tools for RNA and Small molecules interaction evaluation. The resource code shown as EPSDock-code.rar files. You can download and compile it by gcc,g++ on Ubuntu 18.04 LTS OS. ​​Furthermore, a compiled version of the EPSDock is available. e.g. epsdock. ​​If you encounter problems during compilation, you can use the compiled program directly.​
+EPSDock is a novel docking tools for RNA and Small molecules interaction evaluation. The resource code shown as "EPSDock-code.rar" files. You can download and compile it by gcc,g++ on Ubuntu 18.04 LTS OS. ​​Furthermore, a compiled version of the EPSDock is available. e.g. "epsdock" file. ​​If you encounter problems during compilation, you can use the compiled program directly.​
 
 # Enhanced Particle Swarm Optimization (EPSO)​:
 
